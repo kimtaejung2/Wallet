@@ -1,4 +1,4 @@
-# toonflix
+# Wallet
 
 A new Flutter project.
 
